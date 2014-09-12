@@ -1,5 +1,5 @@
 - name: ts
-  hosts: "{{ srv }}"
+  hosts: 192.168.58.102 
 
   roles: 
     - vault_test
